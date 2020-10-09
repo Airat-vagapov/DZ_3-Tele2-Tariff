@@ -14,13 +14,13 @@ public class Tariff {
     //Непонятно, как именно задать безлимитные соц сети, наверное проще задать их отдельным объектом?
     boolean unlimitedMedia;
 //  Соц сети и другие медиа сервисы
-    boolean unlimitedFacebook;
-    boolean unlimitedVk;
-    boolean unlimitedOk;
-    boolean unlimitedWhatsapp;
-    boolean unlimitedViber;
-    boolean unlimitedMessenger;
-    boolean unlimitedInstagram;
+    String imageFacebookUrl;
+    String imageVkUrl;
+    String imageOkUrl;
+    String imageWhatsappUrl;
+    String imageViberUrl;
+    String imageMessengerUrl;
+    String imageInstagramUrl;
 
 //  Плашка Хит
     boolean hit;
