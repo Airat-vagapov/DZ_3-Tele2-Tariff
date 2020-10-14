@@ -1,4 +1,5 @@
 public class Tariff {
+
     long id;
     String name;
 
