@@ -12,7 +12,7 @@ public class Tariff {
 //  Сумма трафика
     int traffic;
 
-//  Соц сети и другие медиа сервисы
+//  Соц сети и другие медиа сервисы с ссылками
     String imageFacebookUrl;
     String imageVkUrl;
     String imageOkUrl;
