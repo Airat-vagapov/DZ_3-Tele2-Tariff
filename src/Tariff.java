@@ -13,7 +13,7 @@ public class Tariff {
 
 //  Соц сети и другие медиа сервисы
     String imageFacebookUrl;
-    String imagegitVkUrl;
+    String imageVkUrl;
     String imageOkUrl;
     String imageWhatsappUrl;
     String imageViberUrl;
